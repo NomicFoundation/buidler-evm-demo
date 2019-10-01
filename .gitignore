@@ -48,3 +48,7 @@ openzeppelin-docs
 # only used to package @openzeppelin/contracts
 contracts/build/
 contracts/README.md
+
+# Buidler files
+/artifacts
+/cache
